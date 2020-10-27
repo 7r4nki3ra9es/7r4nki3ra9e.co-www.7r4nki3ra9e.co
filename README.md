@@ -1,0 +1,2 @@
+# 7r4nki3ra9e.co-www.7r4nki3ra9e.co
+txt=brave-ledger-verification=55a2e4441b2c728b9e706f7fb6a449c3d139ee9371f2f00466afc617d135d027/https://7r4nki3ra9e.co/.well_known/acme-challenges/.&lt;tokken>
